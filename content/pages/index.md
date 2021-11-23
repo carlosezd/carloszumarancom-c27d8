@@ -6,11 +6,13 @@ sections:
     type: section_hero
     title: Hola soy Carlos Zumarán Delgado
     content: >
-      Ingeniero Industrial - CAPM® -  Analista de Producción - Analista de
-      Ingenierías - Analista de Datos. Gestión de Proyectos, Lenguajes de
-      Programación Python, R y SQL - Herramientas para Data Visualization Power
-      BI y Tableau - Análisis Estadístico e Inferencial de Datos - Estrategias
-      de Datos.
+      Ingeniero Industrial - CAPM® -  Analista de Producción e Ingeniería -
+      Analista de Datos. 
+
+
+      Gestión de Proyectos - Lenguajes de Programación Python, R y SQL -
+      Herramientas para Data Visualization Power BI y Tableau - Análisis
+      Estadístico e Inferencial de Datos - Estrategias de Datos.
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
