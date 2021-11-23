@@ -11,13 +11,6 @@ sections:
       Programación Python, R y SQL - Herramientas para Data Visualization Power
       BI y Tableau - Análisis Estadístico e Inferencial de Datos - Estrategias
       de Datos.
-  - section_id: about
-    type: section_content
-    title: Tecnologías
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
