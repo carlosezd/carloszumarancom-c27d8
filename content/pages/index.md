@@ -5,9 +5,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: Hola soy Carlos Zumarán Delgado
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Ingeniero Industrial - CAPM® -  Analista de Producción - Analista de
+      Ingenierías - Analista de Datos. Gestión de Proyectos, Lenguajes de
+      Programación Python, R y SQL - Herramientas para Data Visualization Power
+      BI y Tableau - Análisis Estadístico e Inferencial de Datos - Estrategias
+      de Datos.
   - section_id: about
     type: section_content
     title: About
