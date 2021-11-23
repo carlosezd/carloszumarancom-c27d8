@@ -15,7 +15,7 @@ sections:
     type: section_content
     title: About
     content: >
-      # **Quien soy ...?**
+      # Quien soy ...?
 
 
       #### Nacido en la ciudad de Arequipa, Perú. Estudie la carrera de
