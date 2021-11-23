@@ -14,11 +14,25 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      # **Quien soy ...?**
+
+
+      ## Nacido en la ciudad de Arequipa, Perú. Estudie la carrera de Ingeniería
+      Industrial. Al termino de mi carrera me certifique como CAPM® en Gestión
+      de Proyectos bajo el enfoque del PMI. Trabajé durante 3 años en el sector
+      textil para exportación. Supervisando y controlando la producción del área
+      de ensamble/confección. Promoviendo y participando en proyectos internos
+      de la mejora de la calidad en los procesos de la planta. 
+
+
+      ## Actualmente continuando por mi camino profesional, decidí
+      especializarme como Data Analyst, pudiendo así agregar a mi repertorio de
+      herramientas el uso de lenguajes de programación como Python y R, para
+      realizar análisis estadísticos y probabilísticos en grandes bases de
+      datos. Además de poder crear mejores reportes gerenciales con el uso de
+      Dashboards más precisos y fáciles de entender con ayuda de herramientas
+      como Power BI y Tableau.
     actions:
       - label: Contact Me
         url: /contact
