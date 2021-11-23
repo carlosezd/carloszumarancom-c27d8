@@ -27,13 +27,34 @@ sections:
       planta.
 
 
+      # Lo que estoy aprendiendo
+
+
       #### Actualmente continuando por mi camino profesional, decidí
       especializarme como Data Analyst, pudiendo así agregar a mi repertorio de
       herramientas el uso de lenguajes de programación como Python y R, para
       realizar análisis estadísticos y probabilísticos en grandes bases de
       datos. Además de poder crear mejores reportes gerenciales con el uso de
       Dashboards más precisos y fáciles de entender con ayuda de herramientas
-      como Power BI y Tableau.
+      como Power BI y Tableau. 
+
+
+      #### Dándole un enfoque de negocios a los datos aprendí sobre Data
+      Strategy, un enfoque para poder formular y gestionar proyectos basados en
+      datos para que diversos negocios puedan alcanzar sus objetivos
+      estratégicos aplicando las nuevas tecnologías basadas en el uso de datos.
+
+
+      # Tecnologías
+
+
+      Excel Avanzado, Python, R, SQL, Tableau y Power Bi
+
+
+      # Idiomas
+
+
+      Inglés (Intermedio)
     actions:
       - label: Contact Me
         url: /contact
