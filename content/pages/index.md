@@ -13,7 +13,7 @@ sections:
       de Datos.
   - section_id: about
     type: section_content
-    title: Acerca de mi
+    title: Tecnologías
     content: >
       # **Quien soy ...?**
 
