@@ -18,15 +18,16 @@ sections:
       # **Quien soy ...?**
 
 
-      ## Nacido en la ciudad de Arequipa, Perú. Estudie la carrera de Ingeniería
-      Industrial. Al termino de mi carrera me certifique como CAPM® en Gestión
-      de Proyectos bajo el enfoque del PMI. Trabajé durante 3 años en el sector
-      textil para exportación. Supervisando y controlando la producción del área
-      de ensamble/confección. Promoviendo y participando en proyectos internos
-      de la mejora de la calidad en los procesos de la planta. 
+      #### Nacido en la ciudad de Arequipa, Perú. Estudie la carrera de
+      Ingeniería Industrial. Al termino de mi carrera me certifique como CAPM®
+      en Gestión de Proyectos bajo el enfoque del PMI. Trabajé durante 3 años en
+      el sector textil para exportación. Supervisando y controlando la
+      producción del área de ensamble/confección. Promoviendo y participando en
+      proyectos internos de la mejora de la calidad en los procesos de la
+      planta.
 
 
-      ## Actualmente continuando por mi camino profesional, decidí
+      #### Actualmente continuando por mi camino profesional, decidí
       especializarme como Data Analyst, pudiendo así agregar a mi repertorio de
       herramientas el uso de lenguajes de programación como Python y R, para
       realizar análisis estadísticos y probabilísticos en grandes bases de
