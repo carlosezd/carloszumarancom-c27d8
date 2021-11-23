@@ -31,13 +31,20 @@ seo:
       relativeUrl: true
 layout: page
 ---
+# **Quien soy ...?**
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Nacido en la ciudad de Arequipa, Perú. Estudie la carrera de Ingeniería Industrial. Al termino de mi carrera me certifique como CAPM® en Gestión de Proyectos bajo el enfoque del PMI. Trabajé durante 3 años en el sector textil para exportación. Supervisando y controlando la producción del área de ensamble/confección. Promoviendo y participando en proyectos internos de la mejora de la calidad en los procesos de la planta.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+# **Lo que estoy aprendiendo**
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Actualmente continuando por mi camino profesional, decidí especializarme como Data Analyst, pudiendo así agregar a mi repertorio de herramientas el uso de lenguajes de programación como Python y R, para realizar análisis estadísticos y probabilísticos en grandes bases de datos. Además de poder crear mejores reportes gerenciales con el uso de Dashboards más precisos y fáciles de entender con ayuda de herramientas como Power BI y Tableau.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Dándole un enfoque de negocios a los datos aprendí sobre Data Estrategy, un enfoque para poder formular y gestionar proyectos basados en datos para que diversos negocios puedan alcanzar sus objetivos estratégicos aplicando las nuevas tecnologías basadas en el uso de datos.
 
-*Thank You for reading!*
+# **Tecnologías**
+
+Excel Avanzado, Python, R, SQL, Tableau y Power Bi
+
+# **Idiomas**
+
+Inglés (Intermedio)
