@@ -7,7 +7,7 @@ sections:
     title: Hola soy Carlos Zumarán Delgado
     content: >
       ![](/images/foto_peque%C3%B1a_landing-2f84865d.jpg) Ing. Industrial -
-      CAPM® - Análisis de Datos - Gestión de Proyectos
+      CAPM® - Análisis de Datos
 
 
       Analista de Producción e Ingeniería - Analista de Datos - Programación en
