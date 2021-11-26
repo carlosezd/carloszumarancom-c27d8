@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Hola soy Carlos Zumarán Delgado
     content: >
-      ![](/images/foto_peque%C3%B1a_landing-2f84865d.jpg) Ingeniero Industrial -
-      CAPM®
+      ![](/images/foto_peque%C3%B1a_landing-2f84865d.jpg) Ing. Industrial -
+      CAPM® - Datos
 
 
       Analista de Producción e Ingeniería - Analista de Datos - Programación en
