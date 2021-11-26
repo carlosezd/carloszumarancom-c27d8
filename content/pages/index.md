@@ -11,7 +11,8 @@ sections:
 
 
       Analista de Producción e Ingeniería - Gestión de Proyectos - Analista de
-      Datos - Programación en Python, R y SQL - Tableau y Power BI
+      Datos - Programación en Python, R y SQL -  Dashboards en Tableau y Power
+      BI
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
