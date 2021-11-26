@@ -10,8 +10,8 @@ sections:
       CAPM® - Análisis de Datos
 
 
-      Analista de Producción e Ingeniería - Analista de Datos - Programación en
-      Python, R y SQL - Tableau y Power BI
+      Analista de Producción e Ingeniería - Gestión de Proyectos - Analista de
+      Datos - Programación en Python, R y SQL - Tableau y Power BI
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
